@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    
+}
+
+#conteiner {
+    background-color: green;
+    width: 700px;
+    height: 200px;
+    overflow: hidden;
+    display: flex;
+    gap: 30px;
+}
+.elemento {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+   
+    
+}
